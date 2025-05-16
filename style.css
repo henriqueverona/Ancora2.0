@@ -1,0 +1,44 @@
+.img1 {
+    width: 70%;
+    justify-content: center;
+}
+body {
+    background-color: rgb(114, 70, 70);
+}
+ .texto1 {
+    justify-content: center;
+    border-style: double;
+    
+}
+
+ .texto2 {
+    border-style: double;
+ }
+
+ .texto3 {
+    border-style: double;
+ }
+
+ .texto4 {
+    border-style: double;
+ }
+
+ .texto5 {
+    border-style: double;
+ } 
+
+.img2 {
+    width: 70%;
+}
+
+.img3 {
+    width: 70%;
+}
+
+.img4 {
+    width: 70%;
+}
+
+.img5 {
+    width: 70%;
+}
