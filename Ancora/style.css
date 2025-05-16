@@ -8,23 +8,34 @@ body {
  .texto1 {
     justify-content: center;
     border-style: double;
+    border-color: green;
+    border-left: 30%;
     
 }
 
  .texto2 {
     border-style: double;
+    border-color: yellow;
+    border-left: 30%;
+    
  }
 
  .texto3 {
     border-style: double;
+    border-color: brown;
+    border-left: 30%;
  }
 
  .texto4 {
     border-style: double;
+    border-color: black;
+    border-left: 30%;
  }
 
  .texto5 {
-    border-style: double;
+    border-style: double; 
+    border-color: red;
+    border-left: 30%;
  } 
 
 .img2 {
